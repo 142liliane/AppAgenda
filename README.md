@@ -32,9 +32,9 @@
 > O design é minimalista e fácil de usar, com foco na simplicidade.
 
 ## Telas do Aplicativo 2
-> **Tela Principal**
+> **Tela Principal:**
 > Na tela principal, o usuário pode cliclar no canto superior da tela (no mais é para criar um cadastro, na lupa é para pesquisar o cadastro já feito).
-> **tela de cadastro**
+> **Tela de cadastro:**
 >  Na tela de cadastro, o usuário deverá inserir: nome, cpf e telefone. Onde após salvar, aparecerão na tela principal.
 
 ## Desenvolvedores
